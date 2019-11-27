@@ -1,0 +1,19 @@
+- name: Testing Engineer Keywords
+  keywords:
+      - 白盒测试
+      - 测试开发
+      - Python
+      - 项目管理
+
+#- name: Mobile Developer Keywords
+#  keywords:
+#      - Android
+#      - Reverse Engineering
+#
+#- name: Windows Developer Keywords
+#  keywords:
+#      - Win32 SDK
+#      - DuiLib
+#      - WTL
+#      - COM
+#      - WinDbg
